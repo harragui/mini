@@ -1,0 +1,19 @@
+*{
+    width: 95%;
+}
+.nav-item{
+    font-weight: bold;
+}
+.form-control{
+    height: 25px;
+    width: 150px;
+    border-radius: 20px;
+    border-color:#C5EED4 ;
+}
+hr{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.regl{margin-top: -25px;}
+p{font-size: x-small;}

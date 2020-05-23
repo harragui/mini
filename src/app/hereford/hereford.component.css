@@ -1,0 +1,35 @@
+.container{
+    max-width: 80%;
+}
+
+h5{
+    text-align: center;
+    font-weight: bold;
+}
+
+.carousel-inner{
+    margin: 100px 0 50px 0;
+}
+
+.rgl{
+    width: 225px;
+    height: 260px;
+}
+
+hr{
+   background-color: #C5EED4 ;
+   height: 1px;
+   width: 700px;
+}
+
+.cont1{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    background-color: rgb(152, 209, 173) ;
+      border-radius: 20px;
+}
+     

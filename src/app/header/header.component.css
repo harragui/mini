@@ -1,0 +1,23 @@
+.container{
+    max-width: 95%;
+}
+.logo{
+    height: 100px;width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+nav ul li{
+    margin:0 10px; 
+}
+.modif{   
+    font-weight: bold;
+   font-size: small;
+    color:#C5EED4 ;
+} 
+.form-control{
+    height:  25px;
+    width: 150px;
+    border-radius: 20px;
+    border-color:#C5EED4 ;
+}
