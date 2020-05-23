@@ -15,5 +15,43 @@ hr{
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.regl{margin-top: -25px;}
-p{font-size: x-small;}
+.regl{
+    margin-top: -25px;
+}
+p{
+    font-size: x-small;
+}
+.divCenter{
+    width: 80%;
+    margin: 0 auto;
+}
+.width-footer{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;    
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #9DD594;
+}
+.fa-search{
+    margin-top: -6px;
+}
+h6{
+    color: #596B66;
+}
+a{
+    color: #596B66
+}
